@@ -14,6 +14,7 @@ Churn value - This indicates whether customers have resigned their service withi
 Senior Citizen, Dependents- This indicates demographic and beneficiary details of customers.
 
 Phone service, Internet Service, Online Security, Tech Support - This indicates the services that each customer has been tied to.
+
 **Methods:**
 The project involves customer churn prediction in the telecommunication sector using telco customer data. Initial data preprocessing includes Exploratory Data Analysis (EDA) for understanding data structure and handling missing values.
 Categorical variables are converted to numerical format, and outliers are addressed. A decision tree classification model is implemented, followed by ensemble methods like Random Forests and Gradient Boosting for enhanced accuracy. 
