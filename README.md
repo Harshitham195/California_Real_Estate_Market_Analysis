@@ -14,3 +14,6 @@ analysis), Seaborn, Matplot lib (Data Visualizations), Scikit learn (ML Models) 
 categorical Variables etc.
 3. Exploratory Data Analysis
 4. Implemented Machine Learning models
+
+**Expected Outcome:**
+Through this project, we are predicting the key attributes that are affecting the housing prices in Northern California. This pricing analysis provides information on the economic factors which effects the property values, current market patterns and community development. This project aims to provide insights to stakeholders like investors, buyers, and sellers to make data driven decisions.
