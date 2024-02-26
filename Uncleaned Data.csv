@@ -1,0 +1,341 @@
+community_title,price,city,floor_details,price_details,score
+Bel Air,"['$2,027-$3,231']","Bel Air Apartments
+2000 Shoreline Drive
+San Ramon, CA 94582","['Studio / 1 Bath\n436 sq. ft.', '1 Beds / 1 Bath\n712 sq. ft.', '1 Beds / 1 Bath\n702 sq. ft.', '2 Beds / 2 Bath\n900 sq. ft.', '2 Beds / 2 Bath\n1,093 sq. ft.', '1 Beds / 1 Bath\n770 sq. ft.', '1 Beds / 1 Bath\n845 sq. ft.', '2 Beds / 2 Bath\n1,004 sq. ft.', '2 Beds / 2 Bath\n1,067 sq. ft.', '2 Beds / 2 Bath\n1,114 sq. ft.']","['Starting from $2,027', 'Starting from $2,248', 'Starting from $2,313', 'Starting from $2,749', 'Starting from $3,051', '', '', '', '', '']","14%
+Walk Score"
+Canyon Oaks at Windemere,"['$2,233-$2,999']","Canyon Oaks at Windemere Apartments
+1 Amberstone Ln
+San Ramon, CA 94582","['1 Beds / 1 Bath\n775 sq. ft.', '1 Beds / 1 Bath\n890 sq. ft.', '2 Beds / 2 Bath\n1,052 sq. ft.', '2 Beds / 2 Bath\n1,088 sq. ft.', '2 Beds / 2 Bath\n1,160 sq. ft.', '2 Beds / 2 Bath\n1,128 sq. ft.', '2 Beds / 2 Bath\n1,157 sq. ft.', '3 Beds / 2 Bath\n1,315 sq. ft.']","['Starting from $2,233', 'Starting from $2,308', 'Starting from $2,729', 'Starting from $2,754', 'Starting from $2,999', '', '', '']","32%
+Walk Score"
+Mill Creek at Windemere,"['$2,063-$3,304']","Mill Creek at Windemere Apartments
+2100 Waterstone Pl
+San Ramon, CA 94582","['1 Beds / 1 Bath\n775 sq. ft.', '1 Beds / 1 Bath\n890 sq. ft.', '2 Beds / 2 Bath\n1,052 sq. ft.', '2 Beds / 2 Bath\n1,160 sq. ft.', '2 Beds / 2 Bath\n1,088 sq. ft.', '2 Beds / 2 Bath\n1,128 sq. ft.', '2 Beds / 2 Bath\n1,157 sq. ft.', '3 Beds / 2 Bath\n1,315 sq. ft.']","['Starting from $2,063', 'Starting from $2,198', 'Starting from $2,849', 'Starting from $2,999', 'Starting from $3,124', '', '', '']","41%
+Walk Score"
+Deer Valley,"['$2,481-$4,429']","Deer Valley Apartments
+2500 Deer Valley Road
+San Rafael, CA 94903","['1 Beds / 1 Bath\n706 sq. ft.', '2 Beds / 1 Bath\n848 sq. ft.', '2 Beds / 2 Bath\n981 sq. ft.', '3 Beds / 2 Bath\n1,322 sq. ft.', '1 Beds / 1 Bath\n748 sq. ft.', '1 Beds / 1 Bath\n816 sq. ft.', '2 Beds / 2 Bath\n1,124 sq. ft.', '3 Beds / 2 Bath\n1,159 sq. ft.']","['Starting from $2,481', 'Starting from $3,183', 'Starting from $3,193', 'Starting from $4,429', '', '', '', '']","54%
+Walk Score"
+Lakeshore Landing,"['$2,574-$2,944']","Lakeshore Landing Apartments
+2717 South Norfolk Street
+San Mateo, CA 94403","['1 Beds / 1 Bath\n570 sq. ft.', '1 Beds / 1 Bath\n609 sq. ft.', '1 Beds / 1 Bath\n835 sq. ft.', '1 Beds / 1 Bath\n653 sq. ft.', '1 Beds / 1 Bath\n672 sq. ft.', '2 Beds / 2 Bath\n858 sq. ft.', '2 Beds / 2 Bath\n899 sq. ft.']","['Starting from $2,574', 'Starting from $2,614', 'Starting from $2,944', '', '', '', '']","66%
+Walk Score"
+Summerhill Park,"['$2,824-$3,429']","Summerhill Park Apartments
+972 Corte Madera Ave
+Sunnyvale, CA 94085","['1 Beds / 1 Bath\n710 sq. ft.', '2 Beds / 1 Bath\n900 - 910 sq. ft.', '2 Beds / 2 Bath\n950 sq. ft.']","['Starting from $2,839', 'Starting from $3,299', 'Starting from $3,404']","47%
+Walk Score"
+Patina at Midtown,"['$2,249-$3,224']","Patina at Midtown Apartments
+355 Sunol St
+San Jose, CA 95126","['Studio / 1 Bath\n423 - 528 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '1 Beds / 1 Bath\n715 - 772 sq. ft.', '1 Beds / 1 Bath\n1,031 sq. ft.', '2 Beds / 2 Bath\n1,040 - 1,101 sq. ft.', '1 Beds / 1 Bath\n658 sq. ft.', '1 Beds / 1 Bath\n714 sq. ft.', '1 Beds / 1 Bath\n714 sq. ft.', '1 Beds / 2 Bath\n1,286 sq. ft.', '2 Beds / 2 Bath\n1,141 sq. ft.', '2 Beds / 2 Bath\n1,030 sq. ft.']","['Starting from $2,249', 'Starting from $2,514', 'Starting from $2,554', 'Starting from $2,942', 'Starting from $3,149', '', '', '', '', '', '']","85%
+Walk Score"
+360 Residences,"['$2,699-$8,347']","360 Residences Apartments
+360 S Market Street
+San Jose, CA 95113","['1 Beds / 1 Bath\n815 - 984 sq. ft.', '1 Beds / 1 Bath\n910 sq. ft.', '1 Beds / 1.5 Bath\n1,025 sq. ft.', '1 Beds / 1.5 Bath\n983 sq. ft.', '1 Beds / 2 Bath\n1,376 sq. ft.', '2 Beds / 2 Bath\n1,292 - 1,302 sq. ft.', '2 Beds / 2 Bath\n1,394 sq. ft.', '2 Beds / 2 Bath\n1,592 sq. ft.', '2 Beds / 2 Bath\n1,682 sq. ft.', '2 Beds / 2.5 Bath\n2,690 sq. ft.', '3 Beds / 3.5 Bath\n2,837 sq. ft.', '1 Beds / 1 Bath\n817 sq. ft.', '1 Beds / 1 Bath\n940 sq. ft.', '1 Beds / 1 Bath\n1,025 sq. ft.', '1 Beds / 1 Bath\n1,048 sq. ft.', '1 Beds / 1.5 Bath\n1,001 sq. ft.', '1 Beds / 1.5 Bath\n970 sq. ft.', '2 Beds / 2 Bath\n1,240 sq. ft.', '2 Beds / 2 Bath\n1,303 sq. ft.', '2 Beds / 2 Bath\n1,368 sq. ft.', '2 Beds / 2 Bath\n1,402 sq. ft.', '2 Beds / 2 Bath\n1,409 sq. ft.', '2 Beds / 2 Bath\n1,422 sq. ft.', '2 Beds / 2 Bath\n1,453 sq. ft.', '2 Beds / 2 Bath\n1,491 sq. ft.', '2 Beds / 2 Bath\n1,544 sq. ft.', '2 Beds / 2.5 Bath\n1,641 sq. ft.', '2 Beds / 2.5 Bath\n1,707 sq. ft.', '2 Beds / 2.5 Bath\n1,825 sq. ft.', '2 Beds / 2.5 Bath\n1,930 sq. ft.', '3 Beds / 2.5 Bath\n3,294 sq. ft.', '3 Beds / 2.5 Bath\n1,778 sq. ft.', '3 Beds / 2.5 Bath\n2,898 sq. ft.', '3 Beds / 2.5 Bath\n2,902 sq. ft.', '3 Beds / 3.5 Bath\n3,440 sq. ft.']","['Starting from $2,699', 'Starting from $2,744', 'Starting from $2,821', 'Starting from $3,004', 'Starting from $3,401', 'Starting from $3,554', 'Starting from $3,559', 'Starting from $4,135', 'Starting from $4,469', 'Starting from $7,742', 'Starting from $8,347', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","96%
+Walk Score"
+Township,"['$2,979-$3,119']","Township Apartments
+333 Main St
+Redwood City, CA 94063","['1 Beds / 1 Bath\n630 sq. ft.', '1 Beds / 1 Bath\n765 - 769 sq. ft.', '2 Beds / 2 Bath\n1,047 sq. ft.', '2 Beds / 2 Bath\n1,080 sq. ft.', '2 Beds / 2 Bath\n1,083 sq. ft.', '2 Beds / 2 Bath\n1,084 sq. ft.', '2 Beds / 2 Bath\n1,084 sq. ft.']","['Starting from $2,979', 'Starting from $3,054', '', '', '', '', '']","89%
+Walk Score"
+Radius,"['$3,109-$4,954']","Radius Apartments
+620 Veterans Blvd.
+Redwood City, CA 94063","['1 Beds / 1 Bath\n754 - 896 sq. ft.', '1 Beds / 1 Bath\n743 - 769 sq. ft.', '1 Beds / 1 Bath\n968 sq. ft.', '2 Beds / 2 Bath\n1,063 sq. ft.', '3 Beds / 2 Bath\n1,311 sq. ft.', '2 Beds / 1 Bath\n1,088 sq. ft.', '2 Beds / 2 Bath\n1,135 sq. ft.', '2 Beds / 2 Bath\n1,153 sq. ft.', '2 Beds / 2 Bath\n1,208 sq. ft.', '3 Beds / 2 Bath\n1,266 sq. ft.']","['Starting from $3,109', 'Starting from $3,114', 'Starting from $3,749', 'Starting from $3,949', 'Starting from $4,899', '', '', '', '', '']","87%
+Walk Score"
+101 San Fernando,"['$2,039-$3,564']","101 San Fernando Apartments
+101 E San Fernando St Ste 100
+San Jose, CA 95112","['Studio / 1 Bath\n435 - 436 sq. ft.', 'Studio / 1 Bath\n560 - 568 sq. ft.', '1 Beds / 1 Bath\n946 sq. ft.', '1 Beds / 1 Bath\n929 - 1,004 sq. ft.', '2 Beds / 2 Bath\n1,150 sq. ft.', '2 Beds / 2.5 Bath\n1,412 sq. ft.', '2 Beds / 2.5 Bath\n1,226 sq. ft.', '2 Beds / 2 Bath\n1,198 sq. ft.', 'Studio / 1 Bath\n540 sq. ft.', '1 Beds / 1 Bath\n676 sq. ft.', '1 Beds / 1 Bath\n704 sq. ft.', '1 Beds / 1 Bath\n769 sq. ft.', '1 Beds / 1 Bath\n793 sq. ft.', '1 Beds / 1 Bath\n813 sq. ft.', '2 Beds / 2 Bath\n1,187 sq. ft.', '2 Beds / 2 Bath\n1,292 sq. ft.', '2 Beds / 2.5 Bath\n1,421 sq. ft.', '3 Beds / 2 Bath\n1,390 sq. ft.']","['Starting from $2,049', 'Starting from $2,139', 'Starting from $2,534', 'Starting from $2,719', 'Starting from $3,184', 'Starting from $3,374', 'Starting from $3,404', 'Starting from $3,564', '', '', '', '', '', '', '', '', '', '']","96%
+Walk Score"
+Century Towers,"['$2,529-$3,904']","Century Towers Apartments
+1729 N. First Street
+San Jose, CA 95112","['1 Beds / 1 Bath\n472 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '1 Beds / 1 Bath\n769 sq. ft.', '1 Beds / 1 Bath\n779 sq. ft.', '1 Beds / 1 Bath\n586 sq. ft.', '1 Beds / 1 Bath\n802 sq. ft.', '2 Beds / 2 Bath\n1,172 sq. ft.', '2 Beds / 2 Bath\n1,188 sq. ft.', '1 Beds / 1 Bath\n869 sq. ft.', '1 Beds / 1 Bath\n936 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.']","['Starting from $2,529', 'Starting from $2,574', 'Starting from $2,644', 'Starting from $2,704', 'Starting from $2,849', 'Starting from $2,949', 'Starting from $3,439', 'Starting from $3,569', '', '', '']","65%
+Walk Score"
+Bennett Lofts,"['$2,469-$3,749']","Bennett Lofts Apartments
+530 Brannan Street
+San Francisco, CA 94107","['Studio / 1 Bath\n590 - 660 sq. ft.', '1 Beds / 1 Bath\n790 - 850 sq. ft.', '1 Beds / 2 Bath\n1,218 sq. ft.', '2 Beds / 1 Bath\n930 sq. ft.', 'Studio / 1 Bath\n888 sq. ft.', 'Studio / 2 Bath\n889 sq. ft.', 'Studio / 2 Bath\n1,296 sq. ft.', 'Studio / 2 Bath\n1,432 sq. ft.', 'Studio / 2 Bath\n1,292 sq. ft.', '1 Beds / 2 Bath\n1,351 sq. ft.', '1 Beds / 2 Bath\n1,343 sq. ft.', '1 Beds / 2 Bath\n1,511 sq. ft.', '1 Beds / 4 Bath\n982 sq. ft.', '2 Beds / 2 Bath\n1,714 sq. ft.', '2 Beds / 2 Bath\n1,160 sq. ft.', '2 Beds / 2 Bath\n1,818 sq. ft.', '2 Beds / 2 Bath\n1,728 sq. ft.', '3 Beds / 1 Bath\n1,221 sq. ft.', '3 Beds / 4 Bath\n2,759 sq. ft.', '4 Beds / 1 Bath\n1,232 sq. ft.']","['Starting from $2,469', 'Starting from $2,849', 'Starting from $3,414', 'Starting from $3,749', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","96%
+Walk Score"
+500 Folsom,"['$2,694-$6,159']","500 Folsom Apartments
+500 Folsom St.
+San Francisco, CA 94105","['Studio / 1 Bath\n459 - 467 sq. ft.', 'Studio / 1 Bath\n568 sq. ft.', 'Studio / 1 Bath\n623 sq. ft.', 'Studio / 1 Bath\n733 sq. ft.', '1 Beds / 1 Bath\n616 sq. ft.', '1 Beds / 1 Bath\n769 - 816 sq. ft.', '1 Beds / 1 Bath\n838 - 888 sq. ft.', '1 Beds / 1 Bath\n1,133 sq. ft.', '2 Beds / 2 Bath\n1,182 sq. ft.', '2 Beds / 2 Bath\n1,246 sq. ft.', '2 Beds / 2 Bath\n1,161 sq. ft.', 'Studio / 1 Bath\n655 sq. ft.', 'Studio / 1 Bath\n484 sq. ft.', 'Studio / 1 Bath\n618 sq. ft.', 'Studio / 1 Bath\n482 sq. ft.', 'Studio / 1 Bath\n589 sq. ft.', 'Studio / 1 Bath\n526 sq. ft.', 'Studio / 1 Bath\n506 sq. ft.', 'Studio / 1 Bath\n460 sq. ft.', '1 Beds / 1 Bath\n616 sq. ft.', '1 Beds / 1 Bath\n714 sq. ft.', '1 Beds / 1 Bath\n724 sq. ft.', '1 Beds / 1 Bath\n645 sq. ft.', '1 Beds / 1 Bath\n662 sq. ft.', '1 Beds / 1 Bath\n866 sq. ft.', '1 Beds / 1 Bath\n683 sq. ft.', '1 Beds / 1 Bath\n921 sq. ft.', '1 Beds / 1 Bath\n639 sq. ft.', '1 Beds / 1 Bath\n918 sq. ft.', '1 Beds / 1 Bath\n854 sq. ft.', '1 Beds / 1 Bath\n823 sq. ft.', '1 Beds / 1 Bath\n1,366 sq. ft.', '1 Beds / 1 Bath\n748 sq. ft.', '2 Beds / 2 Bath\n1,104 sq. ft.', '2 Beds / 2 Bath\n1,174 sq. ft.', '2 Beds / 2 Bath\n1,303 sq. ft.', '2 Beds / 2 Bath\n1,247 sq. ft.', '2 Beds / 2 Bath\n942 sq. ft.', '2 Beds / 2.5 Bath\n1,495 sq. ft.', '2 Beds / 2.5 Bath\n1,285 sq. ft.']","['Starting from $2,694', 'Starting from $2,949', 'Starting from $3,329', 'Starting from $3,917', 'Starting from $3,839', 'Starting from $4,104', 'Starting from $4,149', 'Starting from $6,159', 'Starting from $5,674', 'Starting from $6,084', 'Starting from $6,129', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","97%
+Walk Score"
+San Marcos,"['$2,426-$3,166']","San Marcos Apartments
+2601 Hilltop Dr
+Richmond, CA 94806","['1 Beds / 1 Bath\n802 sq. ft.', '1 Beds / 1 Bath\n904 sq. ft.', '2 Beds / 2 Bath\n1,029 sq. ft.', '2 Beds / 2 Bath\n1,114 sq. ft.', '2 Beds / 2 Bath\n1,101 sq. ft.', '2 Beds / 2 Bath\n1,189 sq. ft.', '1 Beds / 1 Bath\n738 sq. ft.', '1 Beds / 1 Bath\n742 sq. ft.']","['Starting from $2,426', 'Starting from $2,599', 'Starting from $2,634', 'Starting from $2,734', 'Starting from $2,839', 'Starting from $3,166', '', '']","35%
+Walk Score"
+MB360,"['$2,599-$4,414']","MB360 Apartments
+1200 4th Street
+San Francisco, CA 94158","['Studio / 1 Bath\n529 - 674 sq. ft.', 'Studio / 1.5 Bath\n768 sq. ft.', '1 Beds / 1 Bath\n739 - 807 sq. ft.', '1 Beds / 1 Bath\n840 - 1,240 sq. ft.', '1 Beds / 1 Bath\n1,021 sq. ft.', '2 Beds / 2 Bath\n1,070 sq. ft.', '2 Beds / 1 Bath\n967 sq. ft.', '2 Beds / 2 Bath\n1,215 sq. ft.', '2 Beds / 2 Bath\n1,176 sq. ft.', '1 Beds / 1 Bath\n746 sq. ft.', '1 Beds / 1 Bath\n792 sq. ft.', '1 Beds / 1.5 Bath\n926 sq. ft.', '2 Beds / 2 Bath\n989 sq. ft.', '2 Beds / 3 Bath\n1,926 sq. ft.']","['Starting from $2,599', 'Starting from $3,024', 'Starting from $3,334', 'Starting from $3,574', 'Starting from $3,704', 'Starting from $4,034', 'Starting from $4,149', 'Starting from $4,234', 'Starting from $4,414', '', '', '', '', '']","89%
+Walk Score"
+Connolly Station,"['$2,400-$3,869']","Connolly Station Apartments
+7550 St Patrick Way
+Dublin, CA 94568","['1 Beds / 1 Bath\n569 - 570 sq. ft.', '1 Beds / 1 Bath\n786 sq. ft.', '2 Beds / 2 Bath\n1,097 - 1,118 sq. ft.', '2 Beds / 3 Bath\n1,518 sq. ft.', '3 Beds / 2 Bath\n1,424 sq. ft.', '1 Beds / 1 Bath\n908 sq. ft.', '2 Beds / 2 Bath\n1,281 sq. ft.', '3 Beds / 2 Bath\n1,739 sq. ft.']","['Starting from $2,400', 'Starting from $2,599', 'Starting from $2,979', 'Starting from $3,869', 'Starting from $3,799', '', '', '']","56%
+Walk Score"
+Villa Granada,"['$2,699-$3,684']","Villa Granada Apartments
+3595 Granada Avenue
+Santa Clara, CA 95051","['1 Beds / 1 Bath\n759 - 760 sq. ft.', '1 Beds / 1 Bath\n745 sq. ft.', '1 Beds / 1 Bath\n785 sq. ft.', '2 Beds / 2 Bath\n1,058 sq. ft.', '2 Beds / 2 Bath\n1,035 sq. ft.', '2 Beds / 2 Bath\n1,155 sq. ft.', '1 Beds / 1 Bath\n813 sq. ft.', '2 Beds / 2 Bath\n1,140 sq. ft.', '2 Beds / 2 Bath\n1,168 sq. ft.']","['Starting from $2,699', 'Starting from $2,774', 'Starting from $2,889', 'Starting from $3,494', 'Starting from $3,524', 'Starting from $3,684', '', '', '']","78%
+Walk Score"
+Marina Cove,"['$2,549-$3,374']","Marina Cove Apartments
+3480 Granada Ave
+Santa Clara, CA 95051","['1 Beds / 1 Bath\n725 sq. ft.', '1 Beds / 1 Bath\n725 sq. ft.', '1 Beds / 1 Bath\n792 sq. ft.', '1 Beds / 1 Bath\n792 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 2 Bath\n1,056 sq. ft.', '2 Beds / 2 Bath\n1,051 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '2 Beds / 2 Bath\n1,051 sq. ft.', '2 Beds / 2 Bath\n1,144 sq. ft.', '2 Beds / 2 Bath\n1,144 sq. ft.']","['Starting from $2,549', 'Starting from $2,654', 'Starting from $2,659', 'Starting from $2,659', 'Starting from $2,689', 'Starting from $3,029', 'Starting from $3,079', 'Starting from $3,204', 'Starting from $3,374', '', '', '', '']","81%
+Walk Score"
+City Centre,"['$2,249-$3,699']","City Centre Apartments
+22800 Meridian Drive
+Hayward, CA 94541","['1 Beds / 1 Bath\n769 sq. ft.', '1 Beds / 1 Bath\n708 sq. ft.', '2 Beds / 2 Bath\n1,029 - 1,046 sq. ft.', '2 Beds / 2 Bath\n1,057 sq. ft.', '3 Beds / 2 Bath\n1,255 sq. ft.', 'Studio / 1 Bath\n458 sq. ft.']","['Starting from $2,249', 'Starting from $2,264', 'Starting from $2,760', 'Starting from $2,790', 'Starting from $3,699', '']","84%
+Walk Score"
+City View,"['$1,849-$2,800']","City View Apartments
+25200 Carlos Bee Blvd.
+Hayward, CA 94542","['Studio / 1 Bath\n685 sq. ft.', '1 Beds / 1 Bath\n713 sq. ft.', '1 Beds / 1 Bath\n662 sq. ft.', '1 Beds / 1 Bath\n797 sq. ft.', '1 Beds / 1 Bath\n784 sq. ft.', '2 Beds / 2 Bath\n1,091 sq. ft.', '2 Beds / 1.5 Bath\n976 sq. ft.', '2 Beds / 2 Bath\n1,063 sq. ft.']","['Starting from $2,393', 'Starting from $1,884', 'Starting from $1,899', 'Starting from $1,984', 'Starting from $1,999', 'Starting from $2,440', 'Starting from $2,447', 'Starting from $2,475']","42%
+Walk Score"
+Foster's Landing,"['$2,714-$3,949']","Foster's Landing Apartments
+700 Bounty Drive
+Foster City, CA 94404","['1 Beds / 1 Bath\n635 sq. ft.', '1 Beds / 1 Bath\n725 sq. ft.', '1 Beds / 1 Bath\n745 sq. ft.', '1 Beds / 1 Bath\n900 sq. ft.', '1 Beds / 1 Bath\n900 sq. ft.', '1 Beds / 1 Bath\n925 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.', '1 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 1 Bath\n925 sq. ft.']","['Starting from $2,714', 'Starting from $2,749', 'Starting from $2,909', 'Starting from $3,064', 'Starting from $3,144', 'Starting from $3,349', 'Starting from $3,649', '', '']","69%
+Walk Score"
+The Commons,"['$2,114-$2,629']","The Commons Apartments
+275 Union Ave
+Campbell, CA 95008","['Studio / 1 Bath\n461 sq. ft.', '1 Beds / 1 Bath\n660 sq. ft.', '2 Beds / 1 Bath\n815 sq. ft.', '2 Beds / 2 Bath\n860 sq. ft.']","['Starting from $2,114', 'Starting from $2,449', '', '']","74%
+Walk Score"
+The Woods,"['$1,904-$2,895']","The Woods Apartments
+40640 High St
+Fremont, CA 94538","['Studio / 1 Bath\n410 sq. ft.', '1 Beds / 1 Bath\n600 sq. ft.', '2 Beds / 1 Bath\n800 sq. ft.', '2 Beds / 2 Bath\n850 sq. ft.']","['Starting from $1,964', 'Starting from $2,324', 'Starting from $2,497', 'Starting from $2,845']","78%
+Walk Score"
+Mission Peaks II,"['$2,359-$3,089']","Mission Peaks II Apartments
+39451 Gallaudet Drive
+Fremont, CA 94538","['1 Beds / 1 Bath\n704 sq. ft.', '2 Beds / 1 Bath\n906 sq. ft.', '2 Beds / 2 Bath\n1,108 sq. ft.']","['Starting from $2,359', 'Starting from $2,619', 'Starting from $2,874']","25%
+Walk Score"
+Paragon,"['$2,474-$3,407']","Paragon Apartments
+3700 Beacon Avenue
+Fremont, CA 94538","['1 Beds / 1 Bath\n738 sq. ft.', '2 Beds / 2 Bath\n1,058 sq. ft.', '2 Beds / 2 Bath\n1,241 sq. ft.', '1 Beds / 1 Bath\n685 sq. ft.', '1 Beds / 1 Bath\n832 sq. ft.', '1 Beds / 1 Bath\n854 sq. ft.', '2 Beds / 2 Bath\n1,111 sq. ft.', '2 Beds / 2 Bath\n1,159 sq. ft.', '2 Beds / 2 Bath\n1,179 sq. ft.']","['Starting from $2,474', 'Starting from $3,097', 'Starting from $3,272', '', '', '', '', '', '']","91%
+Walk Score"
+Avenue 64,"['$2,200-$4,098']","Avenue 64 Apartments
+6399 Christie Avenue
+Emeryville, CA 94608","['1 Beds / 1 Bath\n714 - 731 sq. ft.', '1 Beds / 1 Bath\n789 sq. ft.', '2 Beds / 2 Bath\n1,073 sq. ft.', '2 Beds / 2 Bath\n1,089 - 1,124 sq. ft.', '3 Beds / 2 Bath\n1,340 sq. ft.', 'Studio / 1 Bath\n553 sq. ft.', '2 Beds / 1 Bath\n863 sq. ft.', '3 Beds / 2 Bath\n1,471 sq. ft.']","['Starting from $2,200', 'Starting from $2,375', 'Starting from $2,949', 'Starting from $2,949', 'Starting from $4,098', '', '', '']","81%
+Walk Score"
+Apex,"['$2,399-$3,924']","Apex Apartments
+1102 S. Abel St
+Milpitas, CA 95035","['Studio / 1 Bath\n581 sq. ft.', '1 Beds / 1 Bath\n717 sq. ft.', '1 Beds / 1 Bath\n762 - 803 sq. ft.', '1 Beds / 1 Bath\n756 sq. ft.', '2 Beds / 2 Bath\n1,030 sq. ft.', '2 Beds / 2 Bath\n1,050 sq. ft.', '3 Beds / 2 Bath\n1,423 sq. ft.', 'Studio / 1 Bath\n581 sq. ft.', '2 Beds / 2 Bath\n1,088 sq. ft.', '3 Beds / 2 Bath\n1,423 sq. ft.']","['Starting from $2,399', 'Starting from $2,699', 'Starting from $2,819', 'Starting from $2,849', 'Starting from $3,299', 'Starting from $3,504', 'Starting from $3,899', '', '', '']","77%
+Walk Score"
+The Courtyards at 65th Street,"['$2,480-$3,273']","The Courtyards at 65th Street Apartments
+1465 65th St
+Emeryville, CA 94608","['1 Beds / 1 Bath\n665 - 706 sq. ft.', '2 Beds / 2 Bath\n1,035 - 1,090 sq. ft.', '2 Beds / 2 Bath\n1,165 - 1,172 sq. ft.', '1 Beds / 1 Bath\n799 sq. ft.', '1 Beds / 1 Bath\n844 sq. ft.', '2 Beds / 2 Bath\n1,029 sq. ft.']","['Starting from $2,480', 'Starting from $2,973', 'Starting from $3,198', '', '', '']","85%
+Walk Score"
+Emme,"['$1,978-$4,179']","Emme Apartments
+6350 Christie Ave
+Emeryville, CA 94608","['Studio / 1 Bath\n423 sq. ft.', 'Studio / 1 Bath\n471 sq. ft.', '1 Beds / 1 Bath\n596 sq. ft.', '1 Beds / 1 Bath\n917 sq. ft.', '2 Beds / 2 Bath\n967 sq. ft.', '2 Beds / 2 Bath\n1,123 sq. ft.', '3 Beds / 2 Bath\n1,195 sq. ft.', '1 Beds / 1 Bath\n808 sq. ft.']","['Starting from $1,978', 'Starting from $2,033', 'Starting from $2,349', 'Starting from $2,549', 'Starting from $2,910', 'Starting from $3,125', 'Starting from $4,179', '']","85%
+Walk Score"
+Fourth & U,"['$2,129-$3,269']","Fourth & U Apartments
+2020 Fourth St
+Berkeley, CA 94710","['1 Beds / 1 Bath\n632 - 712 sq. ft.', '1 Beds / 1 Bath\n747 sq. ft.', '2 Beds / 2 Bath\n1,078 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '1 Beds / 1 Bath\n738 sq. ft.', '2 Beds / 2 Bath\n1,152 sq. ft.', '2 Beds / 2 Bath\n1,307 sq. ft.', '2 Beds / 2 Bath\n953 sq. ft.']","['Starting from $2,129', 'Starting from $2,159', 'Starting from $3,024', '', '', '', '', '']","95%
+Walk Score"
+Belmont Terrace,"['$2,809-$4,604']","Belmont Terrace Apartments
+1060 Continentals Way
+Belmont, CA 94002","['1 Beds / 1 Bath\n793 sq. ft.', '3 Beds / 2 Bath\n1,600 sq. ft.', '2 Beds / 2 Bath\n1,170 sq. ft.', '3 Beds / 2 Bath\n1,422 sq. ft.']","['Starting from $2,809', 'Starting from $4,604', '', '']","56%
+Walk Score"
+The Grand,"['$2,069-$4,143']","The Grand Apartments
+100 Grand Ave
+Oakland, CA 94612","['Studio / 1 Bath\n457 sq. ft.', 'Studio / 1 Bath\n561 sq. ft.', '1 Beds / 1 Bath\n780 sq. ft.', '1 Beds / 1 Bath\n747 sq. ft.', '1 Beds / 1 Bath\n841 sq. ft.', '1 Beds / 1 Bath\n834 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.', '2 Beds / 2 Bath\n1,174 sq. ft.', '2 Beds / 2 Bath\n1,141 sq. ft.', '2 Beds / 2 Bath\n1,362 sq. ft.', '3 Beds / 2 Bath\n1,168 sq. ft.', '1 Beds / 1 Bath\n724 sq. ft.', '1 Beds / 1.5 Bath\n1,025 sq. ft.', '1 Beds / 1.5 Bath\n754 sq. ft.', '2 Beds / 1.5 Bath\n1,436 sq. ft.', '2 Beds / 2 Bath\n1,159 sq. ft.', '2 Beds / 2 Bath\n1,183 sq. ft.', '2 Beds / 2 Bath\n1,192 sq. ft.', '3 Beds / 2 Bath\n1,850 sq. ft.']","['Starting from $2,069', 'Starting from $2,074', 'Starting from $2,199', 'Starting from $2,284', 'Starting from $2,554', 'Starting from $2,729', 'Starting from $3,239', 'Starting from $3,284', 'Starting from $3,943', 'Starting from $4,143', 'Starting from $3,809', '', '', '', '', '', '', '', '']","99%
+Walk Score"
+The Landing at Jack London Square,"['$2,009-$3,349']","The Landing at Jack London Square Apartments
+101 Embarcadero West
+Oakland, CA 94607","['Studio / 1 Bath\n553 sq. ft.', '1 Beds / 1 Bath\n771 sq. ft.', '2 Beds / 2 Bath\n1,075 - 1,077 sq. ft.', '2 Beds / 2 Bath\n1,052 sq. ft.']","['Starting from $2,009', 'Starting from $2,116', 'Starting from $2,929', 'Starting from $2,949']","89%
+Walk Score"
+Vista Belvedere,"['$3,647-$4,087']","Vista Belvedere Apartments
+65 Red Hill Cir
+Tiburon, CA 94920","['1 Beds / 1 Bath\n880 sq. ft.', '2 Beds / 1.5 Bath\n1,200 sq. ft.', '2 Beds / 1.5 Bath\n1,130 sq. ft.', '2 Beds / 2 Bath\n1,080 sq. ft.', '2 Beds / 2 Bath\n1,160 sq. ft.']","['Starting from $3,647', 'Starting from $4,087', '', '', '']","21%
+Walk Score"
+Bristol Commons,"['$2,699-$3,659']","Bristol Commons Apartments
+732 E. Evelyn Ave
+Sunnyvale, CA 94086","['1 Beds / 1 Bath\n670 sq. ft.', '1 Beds / 1 Bath\n868 sq. ft.', '2 Beds / 1 Bath\n935 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.']","['Starting from $2,699', 'Starting from $2,994', 'Starting from $3,202', 'Starting from $3,599']","68%
+Walk Score"
+Brookside Oaks,"['$2,624-$3,249']","Brookside Oaks Apartments
+1651 Belleville Way
+Sunnyvale, CA 94087","['1 Beds / 1 Bath\n550 sq. ft.', '1 Beds / 1 Bath\n690 sq. ft.', '1 Beds / 1 Bath\n650 sq. ft.', '1 Beds / 1 Bath\n790 sq. ft.', '2 Beds / 1 Bath\n800 sq. ft.', 'Studio / 1 Bath\n525 sq. ft.', '1 Beds / 1 Bath\n750 sq. ft.', '2 Beds / 1 Bath\n1,050 sq. ft.', '2 Beds / 2 Bath\n1,000 sq. ft.']","['Starting from $2,624', 'Starting from $2,749', 'Starting from $2,764', 'Starting from $2,814', 'Starting from $3,249', '', '', '', '']","55%
+Walk Score"
+Crow Canyon,"['$2,364-$3,723']","Crow Canyon Apartments
+1700 Promontory Lane
+San Ramon, CA 94583","['1 Beds / 1 Bath\n575 sq. ft.', '1 Beds / 1 Bath\n727 sq. ft.', '2 Beds / 2 Bath\n1,057 sq. ft.', '2 Beds / 1 Bath\n956 sq. ft.', '3 Beds / 2 Bath\n1,332 sq. ft.']","['Starting from $2,364', 'Starting from $2,519', 'Starting from $2,939', 'Starting from $2,943', 'Starting from $3,723']","58%
+Walk Score"
+Windsor Ridge,"['$2,649-$3,264']","Windsor Ridge Apartments
+829 E Evelyn Ave
+Sunnyvale, CA 94086","['1 Beds / 1 Bath\n700 sq. ft.', '1 Beds / 1 Bath\n850 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 2 Bath\n1,015 sq. ft.', '1 Beds / 1 Bath\n745 sq. ft.', '1 Beds / 1 Bath\n800 sq. ft.', '2 Beds / 1 Bath\n925 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.']","['Starting from $2,649', 'Starting from $2,914', 'Starting from $3,099', 'Starting from $3,249', '', '', '', '']","68%
+Walk Score"
+Foothill - Twin Creeks Condos,"['$2,924-$3,009']","Foothill - Twin Creek Condos Apartments
+1110 Harness Dr
+San Ramon, CA 94583","['2 Beds / 2 Bath\n1,175 sq. ft.']","['Starting from $2,924']","64%
+Walk Score"
+Via,"['$2,869-$3,789']","Via Apartments
+621 Tasman Dr
+Sunnyvale, CA 94089","['1 Beds / 1 Bath\n694 sq. ft.', '1 Beds / 1 Bath\n922 sq. ft.', '2 Beds / 2 Bath\n1,043 sq. ft.', '1 Beds / 1 Bath\n916 sq. ft.', '2 Beds / 2 Bath\n1,225 sq. ft.']","['Starting from $2,869', 'Starting from $3,139', 'Starting from $3,699', '', '']","51%
+Walk Score"
+Lawrence Station,"['$2,849-$3,544']","Lawrence Station Apartments
+1271 Lawrence Station Road
+Sunnyvale, CA 94089","['1 Beds / 1 Bath\n703 sq. ft.', '1 Beds / 1 Bath\n751 sq. ft.', '1 Beds / 1 Bath\n848 sq. ft.', '2 Beds / 2 Bath\n987 sq. ft.', '2 Beds / 2 Bath\n1,035 sq. ft.', '1 Beds / 1 Bath\n604 sq. ft.', '1 Beds / 2 Bath\n1,357 sq. ft.', '1 Beds / 2 Bath\n1,621 sq. ft.', '2 Beds / 2.5 Bath\n2,132 sq. ft.']","['Starting from $2,849', 'Starting from $2,849', 'Starting from $3,074', 'Starting from $3,399', 'Starting from $3,544', '', '', '', '']","56%
+Walk Score"
+Magnolia Square,"['$2,750-$3,499']","Magnolia Square Apartments
+107 S Mary Ave
+Sunnyvale, CA 94086","['1 Beds / 1 Bath\n735 sq. ft.', '2 Beds / 1 Bath\n915 sq. ft.', '1 Beds / 1 Bath\n735 sq. ft.', '1 Beds / 1 Bath\n722 sq. ft.', '2 Beds / 1.5 Bath\n1,650 sq. ft.', '2 Beds / 2 Bath\n1,075 sq. ft.', '2 Beds / 2 Bath\n1,103 sq. ft.', '3 Beds / 3 Bath\n1,508 sq. ft.']","['Starting from $2,750', 'Starting from $3,499', '', '', '', '', '', '']","64%
+Walk Score"
+Solstice,"['$3,024-$4,624']","Solstice Apartments
+299 W. Washington Avenue
+Sunnyvale, CA 94086","['Studio / 1 Bath\n482 sq. ft.', '1 Beds / 1 Bath\n735 sq. ft.', '1 Beds / 1 Bath\n690 sq. ft.', '2 Beds / 1 Bath\n937 sq. ft.', '2 Beds / 2 Bath\n1,085 sq. ft.', '2 Beds / 2.5 Bath\n1,439 sq. ft.', '1 Beds / 1 Bath\n786 sq. ft.', '1 Beds / 1 Bath\n904 sq. ft.', '1 Beds / 1.5 Bath\n1,002 sq. ft.', '2 Beds / 2 Bath\n1,187 sq. ft.']","['Starting from $3,024', 'Starting from $3,569', 'Starting from $3,574', 'Starting from $3,699', 'Starting from $4,249', 'Starting from $4,624', '', '', '', '']","93%
+Walk Score"
+The Montclaire,"['$2,244-$3,304']","The Montclaire Apartments
+450 N Mathilda Ave
+Sunnyvale, CA 94085","['Studio / 1 Bath\n410 sq. ft.', '1 Beds / 1 Bath\n710 sq. ft.', '2 Beds / 1 Bath\n910 sq. ft.', '2 Beds / 2 Bath\n910 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.']","['Starting from $2,244', 'Starting from $2,599', 'Starting from $2,999', 'Starting from $3,199', '']","69%
+Walk Score"
+Station Park Green,"['$2,699-$4,364']","Station Park Green Apartments
+430 Station Park Circle, Suite 100.
+San Mateo, CA 94402","['Studio / 1 Bath\n590 - 632 sq. ft.', 'Studio / 1 Bath\n745 sq. ft.', '1 Beds / 1 Bath\n723 sq. ft.', '1 Beds / 1 Bath\n735 sq. ft.', '1 Beds / 1 Bath\n783 sq. ft.', '1 Beds / 1 Bath\n727 - 757 sq. ft.', '1 Beds / 1 Bath\n831 - 863 sq. ft.', '1 Beds / 1 Bath\n829 sq. ft.', '2 Beds / 2 Bath\n1,021 - 1,176 sq. ft.', '2 Beds / 2 Bath\n1,151 sq. ft.', '1 Beds / 1 Bath\n808 sq. ft.', '1 Beds / 1 Bath\n865 sq. ft.', '1 Beds / 1 Bath\n845 sq. ft.', '1 Beds / 1 Bath\n945 sq. ft.', '1 Beds / 1 Bath\n947 sq. ft.', '2 Beds / 2 Bath\n1,123 sq. ft.', '2 Beds / 2 Bath\n1,086 sq. ft.', '2 Beds / 2 Bath\n1,039 sq. ft.', '2 Beds / 2 Bath\n1,094 sq. ft.', '2 Beds / 2 Bath\n1,091 sq. ft.', '2 Beds / 2 Bath\n1,176 sq. ft.', '2 Beds / 2 Bath\n1,322 sq. ft.', '2 Beds / 2 Bath\n1,387 sq. ft.', '3 Beds / 2 Bath\n1,271 sq. ft.']","['Starting from $2,699', 'Starting from $3,049', 'Starting from $3,044', 'Starting from $3,044', 'Starting from $3,069', 'Starting from $3,114', 'Starting from $3,214', 'Starting from $3,344', 'Starting from $4,174', 'Starting from $4,364', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","82%
+Walk Score"
+Hillsdale Garden,"['$2,099-$3,829']","Hillsdale Garden Apartments
+3500 Edison St
+San Mateo, CA 94403","['Studio / 1 Bath\n567 sq. ft.', '1 Beds / 1 Bath\n652 - 782 sq. ft.', '2 Beds / 1 Bath\n860 - 910 sq. ft.', '2 Beds / 1 Bath\n941 - 955 sq. ft.', '3 Beds / 1 Bath\n1,267 sq. ft.', '3 Beds / 2 Bath\n1,564 sq. ft.', '3 Beds / 2 Bath\n1,227 sq. ft.', '3 Beds / 2 Bath\n2,100 sq. ft.']","['Starting from $2,099', 'Starting from $2,399', 'Starting from $2,699', 'Starting from $3,234', 'Starting from $3,789', 'Starting from $3,829', '', '']","90%
+Walk Score"
+Reed Square,"['$3,399-$3,414']","Reed Square Apartments
+1070 Reed Avenue
+Sunnyvale, CA 94086","['2 Beds / 2 Bath\n1,198 sq. ft.', '1 Beds / 1 Bath\n869 sq. ft.']","['Starting from $3,399', '']","53%
+Walk Score"
+Bella Villagio,"['$2,709-$4,049']","Bella Villagio Apartments
+383 Vista Roma Way
+San Jose, CA 95136","['1 Beds / 1 Bath\n824 sq. ft.', '2 Beds / 1 Bath\n876 sq. ft.', '2 Beds / 2 Bath\n1,046 sq. ft.', '2 Beds / 2 Bath\n1,180 sq. ft.', '3 Beds / 3 Bath\n1,319 sq. ft.', '1 Beds / 1 Bath\n761 sq. ft.']","['Starting from $2,709', 'Starting from $2,754', 'Starting from $2,944', 'Starting from $2,999', 'Starting from $4,049', '']","73%
+Walk Score"
+Chestnut Street,"['$2,976-$4,013']","Chestnut Street Apartments
+143 Chestnut St
+Santa Cruz, CA 95060","['1 Beds / 1 Bath\n650 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 1.5 Bath\n1,040 sq. ft.', '2 Beds / 2 Bath\n950 sq. ft.', '2 Beds / 2.5 Bath\n1,070 sq. ft.']","['Starting from $2,976', 'Starting from $4,013', '', '', '']","90%
+Walk Score"
+Mio,"['$3,099-$3,149']","Mio Apartments
+688 N. 7th St
+San Jose, CA 95112","['2 Beds / 2 Bath\n980 sq. ft.', '1 Beds / 1 Bath\n587 sq. ft.', '1 Beds / 1 Bath\n668 sq. ft.', '1 Beds / 1 Bath\n726 sq. ft.', '1 Beds / 1 Bath\n759 sq. ft.', '1 Beds / 1.5 Bath\n1,150 sq. ft.', '2 Beds / 2 Bath\n1,027 sq. ft.', '2 Beds / 2 Bath\n1,040 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.', '2 Beds / 2 Bath\n1,129 sq. ft.']","['Starting from $3,099', '', '', '', '', '', '', '', '', '']","83%
+Walk Score"
+Meridian at Midtown,"['$2,699-$3,649']","Meridian at Midtown Apartments
+1432 West San Carlos Street
+San Jose, CA 95126","['1 Beds / 1 Bath\n738 sq. ft.', '1 Beds / 1 Bath\n658 sq. ft.', '2 Beds / 2 Bath\n1,078 sq. ft.', '2 Beds / 2 Bath\n1,421 sq. ft.', 'Studio / 1 Bath\n567 sq. ft.', 'Studio / 1 Bath\n611 sq. ft.', 'Studio / 1 Bath\n557 sq. ft.', '2 Beds / 2 Bath\n1,321 sq. ft.', '2 Beds / 2 Bath\n867 sq. ft.', '2 Beds / 2 Bath\n1,039 sq. ft.', '2 Beds / 2 Bath\n1,044 sq. ft.', '2 Beds / 2 Bath\n1,089 sq. ft.', '2 Beds / 2 Bath\n1,089 sq. ft.', '2 Beds / 2 Bath\n1,148 sq. ft.']","['Starting from $2,699', 'Starting from $2,754', 'Starting from $3,469', 'Starting from $3,649', '', '', '', '', '', '', '', '', '', '']","92%
+Walk Score"
+Marquis,"['$2,209-$3,254']","Marquis Apartments
+817 N 10th St
+San Jose, CA 95112","['Studio / 1 Bath\n554 sq. ft.', 'Studio / 1 Bath\n534 sq. ft.', '1 Beds / 1 Bath\n710 sq. ft.', '1 Beds / 1 Bath\n715 sq. ft.', '2 Beds / 2 Bath\n1,042 sq. ft.', '2 Beds / 2 Bath\n1,038 sq. ft.', '1 Beds / 1 Bath\n719 sq. ft.', '1 Beds / 1 Bath\n733 sq. ft.', '2 Beds / 2 Bath\n1,043 sq. ft.', '2 Beds / 2 Bath\n1,173 sq. ft.']","['Starting from $2,209', 'Starting from $2,349', 'Starting from $2,469', 'Starting from $2,544', 'Starting from $3,229', 'Starting from $3,254', '', '', '', '']","78%
+Walk Score"
+Fountains at River Oaks,"['$2,694-$3,174']","Fountains at River Oaks Apartments
+373 River Oaks Circle
+San Jose, CA 95134","['1 Beds / 1 Bath\n725 sq. ft.', '1 Beds / 1 Bath\n875 sq. ft.', '2 Beds / 2 Bath\n1,050 sq. ft.', '1 Beds / 1 Bath\n825 sq. ft.', '2 Beds / 2 Bath\n1,025 sq. ft.', '2 Beds / 2 Bath\n1,075 sq. ft.']","['Starting from $2,694', 'Starting from $2,904', 'Starting from $3,119', '', '', '']","45%
+Walk Score"
+The Esplanade,"['$2,719-$3,634']","The Esplanade Apartments
+350 E. Taylor Street
+San Jose, CA 95112","['Studio / 1 Bath\n635 sq. ft.', '1 Beds / 1 Bath\n737 sq. ft.', '1 Beds / 1 Bath\n737 sq. ft.', '2 Beds / 2 Bath\n1,204 - 1,210 sq. ft.', '2 Beds / 2 Bath\n1,204 - 1,210 sq. ft.', '1 Beds / 1 Bath\n929 sq. ft.', '3 Beds / 3 Bath\n1,495 sq. ft.']","['Starting from $2,845', 'Starting from $2,719', 'Starting from $2,729', 'Starting from $3,569', 'Starting from $3,569', '', '']","85%
+Walk Score"
+Villa Veneto at Palm Valley,"['$3,099-$3,899']","Villa Veneto at Palm Valley Apartments
+350 La Strada Dr
+San Jose, CA 95123","['1 Beds / 1 Bath\n1,003 sq. ft.', '2 Beds / 2 Bath\n1,294 sq. ft.', '3 Beds / 2 Bath\n1,406 sq. ft.', '1 Beds / 1 Bath\n833 sq. ft.', '2 Beds / 1 Bath\n1,051 sq. ft.', '2 Beds / 2.5 Bath\n1,253 sq. ft.']","['Starting from $3,099', 'Starting from $3,399', 'Starting from $3,899', '', '', '']","24%
+Walk Score"
+Verandas,"['$2,009-$2,365']","Verandas Apartments
+33 Union Square
+Union City, CA 94587","['Studio / 1 Bath\n510 sq. ft.', '1 Beds / 1 Bath\n603 sq. ft.', '1 Beds / 1 Bath\n777 sq. ft.', '1 Beds / 1 Bath\n602 sq. ft.', '2 Beds / 2 Bath\n955 sq. ft.']","['Starting from $2,009', 'Starting from $2,180', 'Starting from $2,310', '', '']","83%
+Walk Score"
+Epic,"['$2,529-$4,124']","Epic Apartments
+600 Epic Way
+San Jose, CA 95134","['Studio / 1 Bath\n565 sq. ft.', '1 Beds / 1 Bath\n778 sq. ft.', '1 Beds / 1 Bath\n720 - 734 sq. ft.', '1 Beds / 1 Bath\n739 sq. ft.', '1 Beds / 1 Bath\n857 sq. ft.', '2 Beds / 2 Bath\n1,044 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.', '2 Beds / 2 Bath\n1,050 - 1,064 sq. ft.', '3 Beds / 2 Bath\n1,213 sq. ft.', '1 Beds / 2 Bath\n1,044 sq. ft.', '2 Beds / 2 Bath\n1,073 sq. ft.']","['Starting from $2,529', 'Starting from $2,699', 'Starting from $2,744', 'Starting from $2,749', 'Starting from $2,974', 'Starting from $3,339', 'Starting from $3,339', 'Starting from $3,409', 'Starting from $4,024', '', '']","51%
+Walk Score"
+Enso,"['$2,799-$3,459']","Enso Apartments
+175 Baypointe Parkway
+San Jose, CA 95134","['1 Beds / 1 Bath\n792 - 800 sq. ft.', '2 Beds / 2 Bath\n1,156 sq. ft.', '2 Beds / 2 Bath\n1,185 sq. ft.', 'Studio / 1 Bath\n593 sq. ft.', 'Studio / 1 Bath\n598 sq. ft.', '1 Beds / 1 Bath\n889 sq. ft.', '1 Beds / 1 Bath\n889 sq. ft.', '1 Beds / 1.5 Bath\n973 sq. ft.', '2 Beds / 2 Bath\n1,221 sq. ft.', '2 Beds / 2 Bath\n1,245 sq. ft.', '2 Beds / 2 Bath\n1,270 sq. ft.']","['Starting from $2,799', 'Starting from $3,399', 'Starting from $3,459', '', '', '', '', '', '', '', '']","39%
+Walk Score"
+Silver,"['$2,199-$3,134']","Silver Apartments
+333 Sunol Street
+San Jose, CA 95126","['Studio / 1 Bath\n523 sq. ft.', '1 Beds / 1 Bath\n666 sq. ft.', '1 Beds / 1 Bath\n723 sq. ft.', '1 Beds / 1 Bath\n771 sq. ft.', '2 Beds / 2 Bath\n1,102 sq. ft.', '2 Beds / 2 Bath\n1,040 sq. ft.', 'Studio / 1 Bath\n614 sq. ft.', '1 Beds / 1 Bath\n692 sq. ft.', '1 Beds / 1 Bath\n726 sq. ft.', '1 Beds / 1 Bath\n737 sq. ft.', '1 Beds / 1 Bath\n892 sq. ft.', '1 Beds / 1 Bath\n982 sq. ft.', '1 Beds / 2 Bath\n916 sq. ft.', '2 Beds / 2 Bath\n854 sq. ft.', '2 Beds / 2 Bath\n1,043 sq. ft.', '2 Beds / 2 Bath\n1,172 sq. ft.', '2 Beds / 2 Bath\n1,176 sq. ft.', '2 Beds / 2 Bath\n1,236 sq. ft.', '2 Beds / 2 Bath\n1,247 sq. ft.']","['Starting from $2,199', 'Starting from $2,534', 'Starting from $2,609', 'Starting from $2,724', 'Starting from $3,049', 'Starting from $3,089', '', '', '', '', '', '', '', '', '', '', '', '', '']","85%
+Walk Score"
+Waterford Place,"['$2,499-$3,294']","Waterford Place Apartments
+1700 N 1st St
+San Jose, CA 95112","['1 Beds / 1 Bath\n731 sq. ft.', '2 Beds / 2 Bath\n1,095 sq. ft.', '2 Beds / 2 Bath\n1,151 sq. ft.', '2 Beds / 2 Bath\n1,063 sq. ft.', '3 Beds / 2 Bath\n1,305 sq. ft.']","['Starting from $2,499', 'Starting from $2,949', 'Starting from $3,069', 'Starting from $3,229', '']","67%
+Walk Score"
+The Carlyle,"['$2,344-$3,299']","The Carlyle Apartments
+2909 Nieman Blvd
+San Jose, CA 95148","['1 Beds / 1 Bath\n760 sq. ft.', '3 Beds / 2 Bath\n1,232 sq. ft.', '2 Beds / 2 Bath\n1,028 sq. ft.']","['Starting from $2,344', 'Starting from $3,299', '']","69%
+Walk Score"
+Willow Lake,"['$2,574-$4,179']","Willow Lake Apartments
+1331 Lakeshore Circle
+San Jose, CA 95131","['1 Beds / 1 Bath\n732 sq. ft.', '2 Beds / 2 Bath\n1,015 sq. ft.', '2 Beds / 2 Bath\n1,150 sq. ft.', '3 Beds / 3 Bath\n1,303 sq. ft.', '1 Beds / 1 Bath\n860 sq. ft.']","['Starting from $2,684', 'Starting from $3,234', 'Starting from $3,529', 'Starting from $3,859', '']","80%
+Walk Score"
+Palma Sorrento at Palm Valley,"['$2,519-$3,339']","Palma Sorrento at Palm Valley Apartments
+250 Palm Valley Blvd
+San Jose, CA 95123","['1 Beds / 1 Bath\n764 sq. ft.', '1 Beds / 1 Bath\n840 sq. ft.', '2 Beds / 2 Bath\n1,095 sq. ft.', '2 Beds / 2 Bath\n1,178 sq. ft.', '2 Beds / 2 Bath\n1,258 sq. ft.', '3 Beds / 2 Bath\n1,264 sq. ft.']","['Starting from $2,519', 'Starting from $2,534', 'Starting from $2,949', 'Starting from $3,064', 'Starting from $3,249', '']","39%
+Walk Score"
+Santa Palmia at Palm Valley,"['$2,559-$3,904']","Santa Palmia at Palm Valley Apartments
+150 Palm Valley Blvd, Suite 200
+San Jose, CA 95123","['1 Beds / 1 Bath\n806 sq. ft.', '2 Beds / 2 Bath\n1,073 sq. ft.', '2 Beds / 2 Bath\n1,033 sq. ft.', '2 Beds / 2 Bath\n1,138 sq. ft.', '2 Beds / 2 Bath\n1,228 sq. ft.', '3 Beds / 2 Bath\n1,358 sq. ft.', '1 Beds / 1 Bath\n698 sq. ft.', '2 Beds / 2 Bath\n1,358 sq. ft.', '3 Beds / 2 Bath\n1,610 sq. ft.']","['Starting from $2,559', 'Starting from $2,979', 'Starting from $2,999', 'Starting from $3,229', 'Starting from $3,364', 'Starting from $3,849', '', '', '']","48%
+Walk Score"
+Fox Plaza,"['$1,923-$2,814']","Fox Plaza Apartments
+1390 Market St Ste 107
+San Francisco, CA 94102","['Studio / 1 Bath\n450 sq. ft.', 'Studio / 1 Bath\n450 sq. ft.', '1 Beds / 1 Bath\n672 - 751 sq. ft.', '2 Beds / 1 Bath\n814 sq. ft.']","['Starting from $1,923', 'Starting from $2,138', 'Starting from $2,779', '']","99%
+Walk Score"
+The Galloway,"['$2,139-$3,649']","The Galloway Apartments
+4863 Willow Road
+Pleasanton, CA 94588","['Studio / 1 Bath\n591 sq. ft.', '1 Beds / 1 Bath\n733 sq. ft.', '1 Beds / 1 Bath\n724 sq. ft.', '1 Beds / 1 Bath\n819 sq. ft.', '1 Beds / 1 Bath\n794 sq. ft.', '2 Beds / 2 Bath\n1,092 - 1,142 sq. ft.', '2 Beds / 2 Bath\n1,078 sq. ft.', '3 Beds / 2 Bath\n1,340 sq. ft.', 'Studio / 1 Bath\n544 sq. ft.', 'Studio / 1 Bath\n636 sq. ft.', '1 Beds / 1 Bath\n904 sq. ft.', '1 Beds / 2 Bath\n1,801 sq. ft.', '1 Beds / 2 Bath\n1,788 sq. ft.', '1 Beds / 2 Bath\n1,812 sq. ft.', '1 Beds / 2 Bath\n2,270 sq. ft.', '2 Beds / 2 Bath\n1,035 sq. ft.', '2 Beds / 2 Bath\n1,068 sq. ft.', '2 Beds / 2 Bath\n1,175 sq. ft.', '2 Beds / 3 Bath\n2,242 sq. ft.', '3 Beds / 2 Bath\n1,376 sq. ft.', '3 Beds / 2 Bath\n1,538 sq. ft.']","['Starting from $2,139', 'Starting from $2,574', 'Starting from $2,624', 'Starting from $2,759', 'Starting from $2,774', 'Starting from $2,894', 'Starting from $3,064', 'Starting from $3,619', '', '', '', '', '', '', '', '', '', '', '', '', '']","59%
+Walk Score"
+Park West,"['$3,014-$4,019']","Park West Apartments
+1201 Funston Ave
+San Francisco, CA 94122","['1 Beds / 1 Bath\n644 sq. ft.', '2 Beds / 1 Bath\n1,120 sq. ft.', 'Studio / 1 Bath\n476 sq. ft.']","['Starting from $3,199', 'Starting from $4,019', '']","98%
+Walk Score"
+1000 Kiely,"['$3,119-$3,894']","1000 Kiely Apartments
+1000 Kiely Blvd.
+Santa Clara, CA 95051","['2 Beds / 1 Bath\n1,008 sq. ft.', '2 Beds / 2 Bath\n1,008 sq. ft.', '3 Beds / 2 Bath\n1,185 sq. ft.', '1 Beds / 1 Bath\n800 sq. ft.']","['Starting from $3,254', 'Starting from $3,279', 'Starting from $3,894', '']","67%
+Walk Score"
+Le Parc,"['$2,864-$3,219']","Le Parc Apartments
+440 N Winchester Blvd
+Santa Clara, CA 95050","['1 Beds / 1 Bath\n725 sq. ft.', '2 Beds / 1 Bath\n925 sq. ft.']","['Starting from $2,864', 'Starting from $3,049']","71%
+Walk Score"
+Mylo Santa Clara,"['$2,749-$4,694']","Mylo Santa Clara Apartments
+3710 El Camino Real
+Santa Clara, CA 95051","['1 Beds / 1 Bath\n718 - 723 sq. ft.', '1 Beds / 1 Bath\n852 sq. ft.', '2 Beds / 2 Bath\n1,116 sq. ft.', '2 Beds / 2 Bath\n1,332 sq. ft.', '1 Beds / 1 Bath\n818 sq. ft.', '1 Beds / 1 Bath\n852 sq. ft.', '2 Beds / 2 Bath\n1,149 sq. ft.', '2 Beds / 2 Bath\n1,240 sq. ft.', '2 Beds / 2 Bath\n1,263 sq. ft.', '2 Beds / 2.5 Bath\n1,657 sq. ft.']","['Starting from $2,749', 'Starting from $3,504', 'Starting from $3,769', 'Starting from $4,509', '', '', '', '', '', '']","85%
+Walk Score"
+Riley Square,"['$2,499-$2,945']","Riley Square Apartments
+3707 Poinciana Drive
+Santa Clara, CA 95051","['1 Beds / 1 Bath\n630 sq. ft.', '2 Beds / 1 Bath\n870 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.']","['Starting from $2,499', 'Starting from $2,823', 'Starting from $2,878']","51%
+Walk Score"
+Brio,"['$2,474-$3,366']","Brio Apartments
+161 N Civic Dr.
+Walnut Creek, CA 94596","['1 Beds / 1 Bath\n667 sq. ft.', '1 Beds / 1 Bath\n766 sq. ft.', '2 Beds / 2 Bath\n1,020 sq. ft.', '2 Beds / 2 Bath\n1,051 sq. ft.', '1 Beds / 1 Bath\n746 sq. ft.']","['Starting from $2,474', 'Starting from $2,734', 'Starting from $3,181', 'Starting from $3,366', '']","85%
+Walk Score"
+Agora at South Main,"['Starting from $4,427']","Agora at South Main Apartments
+1500 Newell Ave
+Walnut Creek, CA 94549","['2 Beds / 2 Bath\n1,209 sq. ft.', '2 Beds / 2.5 Bath\n1,624 sq. ft.', '2 Beds / 2.5 Bath\n1,717 sq. ft.']","['Starting from $4,427', '', '']","89%
+Walk Score"
+Bridgeport,"['$2,417-$2,667']","Bridgeport Apartments
+36826 Cherry St
+Newark, CA 94560","['1 Beds / 1 Bath\n620 sq. ft.', '2 Beds / 1.5 Bath\n875 sq. ft.', '2 Beds / 2 Bath\n800 sq. ft.', '2 Beds / 2 Bath\n800 sq. ft.', '2 Beds / 1.5 Bath\n875 sq. ft.']","['Starting from $2,417', 'Starting from $2,512', 'Starting from $2,662', 'Starting from $2,662', '']","73%
+Walk Score"
+Lafayette Highlands,"['$2,909-$3,249']","Lafayette Highlands Apartments
+1076 Carol Lane
+Lafayette, CA 94549","['2 Beds / 2 Bath\n1,100 sq. ft.', '2 Beds / 1 Bath\n953 sq. ft.', '2 Beds / 2 Bath\n1,050 sq. ft.', '1 Beds / 1 Bath\n750 sq. ft.', '3 Beds / 2 Bath\n1,300 sq. ft.']","['Starting from $2,909', 'Starting from $3,099', 'Starting from $3,249', '', '']","52%
+Walk Score"
+Boulevard,"['$2,299-$2,819']","Boulevard Apartments
+40001 Fremont Blvd
+Fremont, CA 94538","['1 Beds / 1 Bath\n700 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '1 Beds / 1 Bath\n800 sq. ft.', '2 Beds / 2 Bath\n950 sq. ft.']","['Starting from $2,299', 'Starting from $2,819', '', '']","41%
+Walk Score"
+Briarwood at Central Park,"['$1,960-$2,749']","Briarwood at Central Park Apartments
+4200 Bay St
+Fremont, CA 94538","['Studio / 1 Bath\n410 sq. ft.', '2 Beds / 1 Bath\n800 sq. ft.', '2 Beds / 2 Bath\n850 sq. ft.', '1 Beds / 1 Bath\n600 sq. ft.']","['Starting from $1,960', 'Starting from $2,549', 'Starting from $2,749', '']","91%
+Walk Score"
+The Rexford,"['$2,693-$3,635']","The Rexford Apartments
+3400 Country Drive
+Fremont, CA 94536","['1 Beds / 1 Bath\n880 sq. ft.', '2 Beds / 1 Bath\n900 sq. ft.', '2 Beds / 1 Bath\n945 sq. ft.', '2 Beds / 2 Bath\n1,140 sq. ft.', '3 Beds / 2 Bath\n1,320 sq. ft.', '1 Beds / 1 Bath\n720 sq. ft.', '1 Beds / 1 Bath\n800 sq. ft.', '1 Beds / 1 Bath\n840 sq. ft.', '2 Beds / 2.5 Bath\n1,235 sq. ft.', '3 Beds / 2 Bath\n1,430 sq. ft.', '3 Beds / 2 Bath\n1,350 sq. ft.']","['Starting from $2,693', 'Starting from $2,785', 'Starting from $2,875', 'Starting from $2,925', 'Starting from $3,635', '', '', '', '', '', '']","61%
+Walk Score"
+Mission Peaks,"['$2,525-$4,114']","Mission Peaks Apartments
+1401 Red Hawk Circle
+Fremont, CA 94538","['1 Beds / 1 Bath\n725 sq. ft.', '1 Beds / 1 Bath\n735 sq. ft.', '1 Beds / 1 Bath\n722 sq. ft.', '2 Beds / 2 Bath\n1,014 sq. ft.', '2 Beds / 2 Bath\n1,061 sq. ft.', '3 Beds / 2.5 Bath\n1,366 sq. ft.', '1 Beds / 1 Bath\n709 sq. ft.', '1 Beds / 1 Bath\n748 sq. ft.', '2 Beds / 2 Bath\n1,070 sq. ft.']","['Starting from $2,525', 'Starting from $2,540', 'Starting from $2,645', 'Starting from $2,979', 'Starting from $2,984', 'Starting from $3,799', '', '', '']","25%
+Walk Score"
+Stevenson Place,"['$2,025-$2,769']","Stevenson Place Apartments
+4141 Stevenson Blvd
+Fremont, CA 94538","['1 Beds / 1 Bath\n520 sq. ft.', '1 Beds / 1 Bath\n730 sq. ft.', '2 Beds / 1.5 Bath\n1,110 sq. ft.', '2 Beds / 2 Bath\n1,010 sq. ft.', '1 Beds / 1 Bath\n620 sq. ft.']","['Starting from $2,025', 'Starting from $2,449', 'Starting from $2,639', 'Starting from $2,709', '']","58%
+Walk Score"
+Regency at Mountain View,"['$2,899-$3,530']","Regency at Mountain View Apartments
+333 Escuela Avenue
+Mountain View, CA 94040","['1 Beds / 1 Bath\n700 sq. ft.', '2 Beds / 2 Bath\n1,100 sq. ft.', '2 Beds / 2.5 Bath\n1,300 sq. ft.', '3 Beds / 2 Bath\n1,437 sq. ft.']","['Starting from $2,899', 'Starting from $3,500', '', '']","57%
+Walk Score"
+Sage at Cupertino,"['$2,284-$3,289']","Sage at Cupertino Apartments
+175 Calvert Drive
+Cupertino, CA 95014","['1 Beds / 1 Bath\n685 - 690 sq. ft.', '2 Beds / 2 Bath\n890 sq. ft.', '2 Beds / 1 Bath\n865 sq. ft.', '2 Beds / 2 Bath\n907 sq. ft.', 'Studio / 1 Bath\n435 sq. ft.']","['Starting from $2,284', 'Starting from $3,169', 'Starting from $3,219', 'Starting from $3,289', '']","52%
+Walk Score"
+777 Hamilton,"['$3,299-$4,972']","777 Hamilton Apartments
+777 Hamilton Ave
+Menlo Park, CA 94025","['1 Beds / 1 Bath\n743 - 751 sq. ft.', '1 Beds / 1 Bath\n791 sq. ft.', '2 Beds / 2 Bath\n997 sq. ft.', '2 Beds / 2 Bath\n1,039 - 1,090 sq. ft.', '3 Beds / 3 Bath\n1,375 sq. ft.', '3 Beds / 3 Bath\n1,569 sq. ft.', '3 Beds / 3 Bath\n1,448 sq. ft.']","['Starting from $3,299', 'Starting from $3,434', 'Starting from $3,828', 'Starting from $3,883', 'Starting from $4,732', 'Starting from $4,972', '']","51%
+Walk Score"
+The Pointe at Cupertino,[],"The Pointe at Cupertino Apartments
+19920 Olivewood St
+Cupertino, CA 95014","['2 Beds / 1.5 Bath\n1,212 sq. ft.', '2 Beds / 1.5 Bath\n1,152 sq. ft.', '2 Beds / 1.5 Bath\n960 sq. ft.', '3 Beds / 1.5 Bath\n1,212 sq. ft.', '3 Beds / 1.5 Bath\n1,152 sq. ft.', '3 Beds / 2.5 Bath\n1,212 sq. ft.']","['', '', '', '', '', '']","52%
+Walk Score"
